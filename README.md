@@ -11,7 +11,7 @@ So what is a **pongpingpong** you may be asking. **pongpingpong** is an EOS smar
 **Prerequistes**
 This project requires [Docker for Windows](https://www.docker.com/get-started) (of course) and my new favorite text editor, IDE, and all around good guy [VS Code](https://code.visualstudio.com/download). Both of these tools have great communites with tons of information available regarding setup and customization. The final requirement is the brainchild of our very own [Warrick](https://github.com/eosnewyork/EOSEasyContract/commits?author=warrick-eosny). He spent a rainy weekend holed up creating [EOS Easy Contract](https://github.com/eosnewyork/EOSEasyContract). We will be using this project to create, compile, and deploy a smart contract.
 
-##Goals
+## Goals
 Our goal here is to get any developers from the Windows world who may be unsure of how get into the EOS development game. There is a ton of tooling for Mac and Linux but no love for the Windows Dev. Hopefully this opens some doors for those characters.
 
 ## Environment setup
